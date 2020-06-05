@@ -1,0 +1,252 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "albumName": "trinidad",
+      "coverPhoto": "https://i2.wp.com/stluciatimes.com/wp-content/uploads/2016/06/trinidad-and-tobago-flag-e1464955520730.jpg?resize=350%2C200&ssl=1"
+    },
+    {
+      "id": 2,
+      "albumName": "puppies",
+      "coverPhoto": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2017/06/pit-bull-names-4.jpg"
+    },
+    {
+      "id": 3,
+      "albumName": "memes",
+      "coverPhoto": "https://i.pinimg.com/originals/1d/99/60/1d9960d77eb01e5077053952850624f2.jpg"
+    },
+    {
+      "id": 4,
+      "albumName": "cars",
+      "coverPhoto": "https://c4d709dd302a2586107d-f8305d22c3db1fdd6f8607b49e47a10c.ssl.cf1.rackcdn.com/thumbnails/stock-images/a238a25246e8a214e6184bfde585a1eb.png"
+    },
+    {
+      "id": 5,
+      "albumName": "italy",
+      "coverPhoto": "https://i0.wp.com/picjumbo.com/wp-content/uploads/venice-italy-canal-grande-free-photo.jpg?resize=350%2C200&ssl=1"
+    },
+    {
+      "id": 6,
+      "albumName": "hawaii",
+      "coverPhoto": "https://i1.wp.com/photoseek.com/wp-content/uploads/1701HAW-1412.jpg?resize=350%2C200"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "name": "maracas beach",
+      "url": "https://i1.wp.com/www.discovertnt.com/wp-content/uploads/2017/11/maracas-flowers.jpg?resize=350%2C200&ssl=1"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "name": "port of spain",
+      "url": "https://news.power102fm.com/wp-content/uploads/2015/06/port-of-spain.jpg"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "name": "carnival",
+      "url": "https://i.ytimg.com/vi/k_IeMSidmpY/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "name": "waterfall",
+      "url": "http://www.adventuretravelinggirl.com/wp-content/uploads/2016/04/cascada-de-javira-el.jpg"
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "name": "roti",
+      "url": "https://images2.miaminewtimes.com/imager/lc-roti-shop/u/original/6405056/6842152.0.jpg"
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "name": "doubles",
+      "url": "http://www.vegetarianliving.co.uk/uploads/recipes/full/recipe1700photo1_1393925750.jpg"
+    },
+    {
+      "id": 7,
+      "albumId": 2,
+      "name": "pit bull",
+      "url": "https://dogzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2017/06/pit-bull-names-4.jpg"
+    },
+    {
+      "id": 8,
+      "albumId": 2,
+      "name": "german shepherd",
+      "url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg"
+    },
+    {
+      "id": 9,
+      "albumId": 2,
+      "name": "husky",
+      "url": "https://images-na.ssl-images-amazon.com/images/I/61cq26MryLL._SX425_.jpg"
+    },
+    {
+      "id": 10,
+      "albumId": 2,
+      "name": "labrador",
+      "url": "https://www.warrenphotographic.co.uk/photography/bigs/41150-Cute-Yellow-Labrador-puppy-lying-white-background.jpg"
+    },
+    {
+      "id": 11,
+      "albumId": 2,
+      "name": "boxer",
+      "url": "https://images1.americanlisted.com/nlarge/akc-boxer-puppy-molly-s-flashy-fawn-male-3--7-weeks-old-on-hold-americanlisted_46323753.jpg"
+    },
+    {
+      "id": 12,
+      "albumId": 2,
+      "name": "bull dog",
+      "url": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2016/07/English-Bulldog-Puppies-For-Sale.jpg"
+    },
+    {
+      "id": 13,
+      "albumId": 3,
+      "name": "you're fat",
+      "url": "https://imgix.ranker.com/user_node_img/50065/1001280631/original/dr-no-chill-photo-u1?w=650&q=50&fm=jpg&fit=crop&crop=faces"
+    },
+    {
+      "id": 14,
+      "albumId": 3,
+      "name": "eyebrows",
+      "url": "http://www.srune.com/media/uploads/18/5722f14a32a05.jpg"
+    },
+    {
+      "id": 15,
+      "albumId": 3,
+      "name": "don't poke",
+      "url": "https://i.pinimg.com/originals/a6/55/18/a6551844efa2f043b69e175d1bf0d83e.jpg"
+    },
+    {
+      "id": 16,
+      "albumId": 3,
+      "name": "at work",
+      "url": "http://www.srune.com/media/uploads/18/5722f26fede89.jpg"
+    },
+    {
+      "id": 17,
+      "albumId": 3,
+      "name": "brain app",
+      "url": "https://netstorage-tuko.akamaized.net/images/0fgjhs33hpithvq3pg.jpg"
+    },
+    {
+      "id": 18,
+      "albumId": 3,
+      "name": "you",
+      "url": "https://quotesnhumor.com/wp-content/uploads/2016/12/30-In-Real-Life-Memes-2-Real-Life-Funny-Memes.jpg"
+    },
+    {
+      "id": 19,
+      "albumId": 4,
+      "name": "tahoe",
+      "url": "https://c4d709dd302a2586107d-f8305d22c3db1fdd6f8607b49e47a10c.ssl.cf1.rackcdn.com/thumbnails/stock-images/a238a25246e8a214e6184bfde585a1eb.png"
+    },
+    {
+      "id": 20,
+      "albumId": 4,
+      "name": "corvette",
+      "url": "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/640x400/quality/80/https://s.aolcdn.com/commerce/autodata/images/USC80CHC061A021001.jpg"
+    },
+    {
+      "id": 21,
+      "albumId": 4,
+      "name": "69 gto",
+      "url": "https://www.americancarcollector.com/wp-content/uploads/2017/05/1969-pontiac-gto-judge-rear.jpg"
+    },
+    {
+      "id": 22,
+      "albumId": 4,
+      "name": "ferrari",
+      "url": "https://i.kinja-img.com/gawker-media/image/upload/s---eJmyClw--/c_scale,f_auto,fl_progressive,q_80,w_800/msbmzlohvmq8qbq1qcnp.jpg"
+    },
+    {
+      "id": 23,
+      "albumId": 4,
+      "name": "aston martin",
+      "url": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/media/assets/submodel/8946.jpg"
+    },
+    {
+      "id": 24,
+      "albumId": 4,
+      "name": "70 camaro",
+      "url": "https://i.pinimg.com/originals/57/fc/2e/57fc2e732457c3134a2eb4f2b830c5b5.jpg"
+    },
+    {
+      "id": 25,
+      "albumId": 5,
+      "name": "colosseum",
+      "url": "https://cdn.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
+    },
+    {
+      "id": 26,
+      "albumId": 5,
+      "name": "trevi fountain",
+      "url": "https://www.ciee.org/sites/default/files/content/program/main-image/rome-open-campus-hero.jpg"
+    },
+    {
+      "id": 27,
+      "albumId": 5,
+      "name": "vatican city",
+      "url": "https://www.oaklandairport.com/wp-content/uploads/St_Peters_Square_Vatican_City_-_April_2007.jpg"
+    },
+    {
+      "id": 28,
+      "albumId": 5,
+      "name": "florence",
+      "url": "https://handluggageonly.co.uk/wp-content/uploads/2017/01/IMG_3181.jpg"
+    },
+    {
+      "id": 29,
+      "albumId": 5,
+      "name": "venice",
+      "url": "https://www.azamaraclubcruises.com/sites/default/files/heros/venice-italy.jpg"
+    },
+    {
+      "id": 30,
+      "albumId": 5,
+      "name": "vernazza",
+      "url": "https://cdn-01.independent.ie/life/travel/article35946351.ece/55d7c/AUTOCROP/w620/cinqueterre.JPG"
+    },
+    {
+      "id": 31,
+      "albumId": 6,
+      "name": "kauai",
+      "url": "https://www.westjet.com/assets/wj-web/images/en/destination-defaults/lih-tile.jpg"
+    },
+    {
+      "id": 32,
+      "albumId": 6,
+      "name": "maui",
+      "url": "https://www.rd.com/wp-content/uploads/2018/04/lanai-760x500.jpg"
+    },
+    {
+      "id": 33,
+      "albumId": 6,
+      "name": "aloha",
+      "url": "https://www.hawaii.com/wp-content/uploads/2017/05/1489452380_Disney-Aluni-resort-beach-edited-1.jpg"
+    },
+    {
+      "id": 34,
+      "albumId": 6,
+      "name": "waterfall",
+      "url": "https://www.hawaii-guide.com/images/made/images/remote/https_cdn.hawaii-guide.com/2013-files/94/ranbow-falls-big-island_1600_750_85_s_c1_c_c_0_0.jpg.pagespeed.ce.Dgy7JOUYSY.jpg"
+    },
+    {
+      "id": 35,
+      "albumId": 6,
+      "name": "turtle",
+      "url": "http://allomamantoutvabien.com/wp-content/uploads/2017/03/Hawaii-oahu-tortues-770x578.jpg"
+    },
+    {
+      "id": 36,
+      "albumId": 6,
+      "name": "whale",
+      "url": "https://hawaiianpaddlesports.com/wp-content/uploads/Humpback-Breach.jpg"
+    }
+  ]
+}
